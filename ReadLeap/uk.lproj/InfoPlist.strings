@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  VoiceMemos
+
+  Created by Artem Trubacheev on 06.08.2023.
+  Copyright © 2023 Point-Free. All rights reserved.
+*/
+"NSMicrophoneUsageDescription" = "Мікрофон використовуватиметься для запису звуку до карток";
+"NSSpeechRecognitionUsageDescription" = "Для автоматичних підписів до записів";
+"NSPhotoLibraryUsageDescription" = "Для додавання фото до профілів дітей";

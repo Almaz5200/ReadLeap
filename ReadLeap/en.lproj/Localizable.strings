@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  VoiceMemos
+
+  Created by Artem Trubacheev on 05.08.2023.
+  Copyright © 2023 Point-Free. All rights reserved.
+*/
+
+"Архив" = "Archive";
+"Для записи голоса нужно разрешение." = "Permission is required to record voice.";
+"Запись не удалась" = "Recording failed";
+"Проигрывание не удалось" = "Playback failed";
+"Все слова" = "All words";
+"Группа" = "Group %d";
+"Архивировать группу" = "Archive a group";
+"Слова" = "Words";
+"Настройки" = "Settings";
+"Настройки" = "Settings";
+"Очистить" = "Clear";
+"Пуск" = "Start";
+"Запись голоса требует разрешения." = "Voice recording requires permission.";
+"Разрешить" = "Allow";
+"Тема" = "Theme";
+"Палитра" = "Palette";
+"Светлая" = "Light";
+"Авто" = "Auto";
+"Темная" = "Dark";
+"Максимальный шрифт" = "Maximum Font";
+"Запись" = "Recording";
+"Большие буквы" = "Capital letters";
+"Переносить слова" = "Wrap words";
